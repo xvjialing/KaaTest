@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KaaProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KaaProject_jar</output-path>
+    <root id="archive" name="KaaProject.jar">
+      <element id="module-output" name="KaaProject" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/kaa-java-ep-sdk-NPxnA0rhhbYioh4N3c54yCRM-no.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JDataCollectionDemo/lib/log4j-over-slf4j-1.7.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JDataCollectionDemo/lib/logback-core-1.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JDataCollectionDemo/lib/logback-classic-1.1.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
